@@ -1,0 +1,1 @@
+# text-search-counter-api
